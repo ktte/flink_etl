@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "cn.ktte.canal.bean";
+option java_outer_classname = "CanalModel";
+
+/* 这个RowData是我们最终要想Kafka中发送消息的RowData */
+message RowData {
+    string logfilename = 1;
+    uint64 logfileoffset = 2;
+    uint64 executeTime = 3;
+    string schemaName = 4;
+    string tableName = 5;
+    string eventType = 6;
+    map<string, string> columns = 7;
+}
