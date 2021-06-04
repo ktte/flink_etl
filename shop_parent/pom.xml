@@ -81,7 +81,7 @@
         <avatica.version>1.10.0</avatica.version>
         <druid.version>1.1.9</druid.version>
         <!-- http client -->
-        <http.client.version>4.5.2</http.client.version>
+        <http.client.version>4.5.13</http.client.version>
         <!-- maven plugins -->
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
         <maven-compiler-plugin.version>3.1</maven-compiler-plugin.version>
