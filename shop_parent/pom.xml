@@ -74,7 +74,7 @@
         <commons-lang3.version>3.7</commons-lang3.version>
         <!-- json -->
         <fastjson.version>1.2.44</fastjson.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
         <!-- db driver or pool -->
         <jedis.version>3.0.1</jedis.version>
         <mysql.version>5.1.44</mysql.version>
