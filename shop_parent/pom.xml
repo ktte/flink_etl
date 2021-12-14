@@ -50,7 +50,7 @@
         <!-- junit -->
         <junit.version>4.12</junit.version>
         <!-- logger -->
-        <log4j.version>2.11.0</log4j.version>
+        <log4j.version>2.16.0</log4j.version>
         <slf4j.version>1.7.25</slf4j.version>
         <!-- bigdata -->
         <cdh.version>cdh5.14.0</cdh.version>
