@@ -73,7 +73,7 @@
         <commons-codec.version>1.11</commons-codec.version>
         <commons-lang3.version>3.7</commons-lang3.version>
         <!-- json -->
-        <fastjson.version>1.2.44</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <jackson.version>2.9.7</jackson.version>
         <!-- db driver or pool -->
         <jedis.version>3.0.1</jedis.version>
