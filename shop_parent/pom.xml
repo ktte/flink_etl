@@ -77,7 +77,7 @@
         <jackson.version>2.9.7</jackson.version>
         <!-- db driver or pool -->
         <jedis.version>3.0.1</jedis.version>
-        <mysql.version>5.1.44</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <avatica.version>1.10.0</avatica.version>
         <druid.version>1.1.9</druid.version>
         <!-- http client -->
